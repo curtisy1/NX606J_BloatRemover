@@ -13,6 +13,9 @@ Because it's removing the default launcher, it will also try to install the foll
 #### FDroid ([Source](https://gitlab.com/fdroid/fdroidclient/tags))
 #### App Inspector ([Google Play](https://play.google.com/store/apps/details?id=com.ubqsoft.sec01&hl=en))
 
+### ANY PREREQUISITES?
+You need to have adb installed. Also make sure to turn on USB Debugging and set your phone to MTP mode
+
 ### HOW DO I REINSTALL THE DELETED APPS?
 There's currently no way to reinstall them included, simply because I don't think there's any need for them.
 If you feel like something's missing, feel free to extract the apks and submit a PR with a proposed fix
