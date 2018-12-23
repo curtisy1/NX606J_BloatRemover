@@ -7,7 +7,7 @@ Remove bloatware apps with a simple shell script
 ### WHAT DOES THIS SCRIPT DO?
 This script will remove all the preinstalled Chinese apps on the nubia Z18 and leave you with a bare minimum of services installed that are needed for all functions to work properly.
 
-Because it's removing the default launcher, it will also try to install the following APKs:
+Because it's removing the default launcher, it will also try to install the following APKs (in the same directory as the script currently):
 
 #### Lawnchair ([source](https://github.com/LawnchairLauncher/Lawnchair/releases))
 #### FDroid ([Source](https://gitlab.com/fdroid/fdroidclient/tags))
